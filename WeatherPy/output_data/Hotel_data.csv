@@ -1,0 +1,32 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Hotel Name
+16,rikitea,-23.1203,-134.9692,78.66,78,10,3.27,PF,1682949210,Chez Bianca & Benoit
+20,puerto quijarro,-17.7833,-57.7667,89.26,54,5,3.87,BO,1682949211,No hotel found
+43,castro,-24.7911,-50.0119,69.21,62,0,0.38,BR,1682949216,Hotel Central Palace
+119,kununurra,-15.7667,128.7333,75.18,69,20,4.61,AU,1682949228,Kununurra Country Club Resort
+158,puerto ayora,-0.7393,-90.3518,83.55,90,7,2.26,EC,1682949235,No hotel found
+160,bataipora,-22.2953,-53.2711,77.68,62,17,3.96,BR,1682949237,No hotel found
+176,lujan,-34.5703,-59.105,60.13,54,0,4.0,AR,1682949241,No hotel found
+216,le port,-20.9373,55.2919,82.36,91,11,2.55,RE,1682949248,No hotel found
+221,vila velha,-20.3297,-40.2925,78.75,86,20,4.61,BR,1682949249,Hotel Prainha
+235,ambon,-3.6954,128.1814,84.96,88,20,3.44,ID,1682949251,Hotel Hero
+240,jiuquan,39.7432,98.5174,63.86,11,11,3.38,CN,1682949252,民族宾馆
+254,pascagoula,30.3658,-88.5561,66.04,75,0,4.61,US,1682949242,Grand Magnolia
+256,camabatela,-8.1881,15.375,79.63,37,24,2.8,AO,1682949254,No hotel found
+263,makakilo city,21.3469,-158.0858,73.69,87,0,4.61,US,1682949256,No hotel found
+264,tomatlan,19.9333,-105.25,71.51,55,11,0.89,MX,1682949256,Hotel Hacienda Vieja Tomatlan
+281,embu-guacu,-23.8534,-46.8396,79.52,55,0,0.94,BR,1682949259,No hotel found
+288,santa maria,-29.6842,-53.8069,74.5,69,20,4.61,BR,1682949260,Hotel Morotin
+333,taunggyi,20.7833,97.0333,71.4,42,6,2.73,MM,1682949268,Golden Island Cottages
+360,nortelandia,-14.4547,-56.8028,86.04,61,0,3.47,BR,1682949272,No hotel found
+413,porto velho,-8.7619,-63.9039,82.45,74,0,2.3,BR,1682949282,No hotel found
+416,jatai,-17.8814,-51.7144,80.49,50,0,3.13,BR,1682949283,Hotel Rio Claro
+428,sur,22.5667,59.5289,87.94,54,0,3.98,OM,1682949285,Sur Hotel
+431,florida,28.7505,-82.5001,76.82,62,0,1.01,US,1682949014,No hotel found
+445,bullhead city,35.1478,-114.5683,80.71,23,0,3.0,US,1682949288,Laughlin River Lodge
+474,inirida,3.8653,-67.9239,83.25,78,23,2.04,CO,1682949293,Residencias El Turista del Guainia
+509,utiel,39.5667,-1.2,79.25,10,1,1.52,ES,1682949299,Hostal El Vegano
+513,cap malheureux,-19.9842,57.6142,77.47,80,6,3.02,MU,1682949299,Cape Garden
+515,grand gaube,-20.0064,57.6608,81.0,80,9,3.6,MU,1682949300,Coco Villa
+517,phalaborwa,-23.943,31.1411,78.08,41,10,4.23,ZA,1682949230,No hotel found
+536,sakakah,29.9697,40.2064,83.77,15,0,4.76,SA,1682949304,No hotel found
+543,cavalcante,-13.7975,-47.4583,82.24,50,0,4.43,BR,1682949305,Pousada Chalés do Lago
