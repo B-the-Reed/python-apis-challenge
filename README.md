@@ -7,4 +7,4 @@ This repository contains my Python APIs Challenge submission for Module 6 of the
 - The file labeled WeatherPy_BRR_final.ipynb shows the code and analysis for Part 1 of the assignment. 
 - The file labeled VacationPy_BRR_final.ipynb shows the code for Part 2 of the assignment. 
 
-
+Please also note that the temperature scale used in the analysis is Imperial (Fahrenheit). 
